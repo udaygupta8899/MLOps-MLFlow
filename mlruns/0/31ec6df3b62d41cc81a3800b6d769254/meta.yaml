@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/31ec6df3b62d41cc81a3800b6d769254/artifacts
+deleted_time: 1741008491259
+end_time: 1741008066338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 31ec6df3b62d41cc81a3800b6d769254
+run_name: mysterious-shad-812
+run_uuid: 31ec6df3b62d41cc81a3800b6d769254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741008052185
+status: 4
+tags: []
+user_id: ASUS

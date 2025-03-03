@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/36aeae98ca024056b4264f914b082e13/artifacts
+end_time: 1741008620719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36aeae98ca024056b4264f914b082e13
+run_name: inquisitive-hog-571
+run_uuid: 36aeae98ca024056b4264f914b082e13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741008620302
+status: 3
+tags: []
+user_id: ASUS

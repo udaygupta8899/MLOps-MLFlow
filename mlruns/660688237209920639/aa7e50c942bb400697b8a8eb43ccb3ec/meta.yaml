@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/660688237209920639/aa7e50c942bb400697b8a8eb43ccb3ec/artifacts
+end_time: 1741010277263
+entry_point_name: ''
+experiment_id: '660688237209920639'
+lifecycle_stage: active
+run_id: aa7e50c942bb400697b8a8eb43ccb3ec
+run_name: handsome-hare-863
+run_uuid: aa7e50c942bb400697b8a8eb43ccb3ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741010267306
+status: 3
+tags: []
+user_id: ASUS

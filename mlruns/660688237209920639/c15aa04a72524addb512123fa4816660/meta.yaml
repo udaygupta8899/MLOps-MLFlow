@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/660688237209920639/c15aa04a72524addb512123fa4816660/artifacts
+end_time: 1741008999961
+entry_point_name: ''
+experiment_id: '660688237209920639'
+lifecycle_stage: active
+run_id: c15aa04a72524addb512123fa4816660
+run_name: dashing-wasp-651
+run_uuid: c15aa04a72524addb512123fa4816660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741008992664
+status: 3
+tags: []
+user_id: ASUS
